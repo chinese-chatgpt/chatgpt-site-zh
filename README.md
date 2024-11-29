@@ -7,9 +7,9 @@
 
 ## 什么是 ChatGPT镜像网站？
 
-**ChatGPT镜像网站**（ChatGPT Mirror）是通过复制 ChatGPT 官网内容和结构创建的备用网站，旨在帮助用户访问 ChatGPT 服务。<br />
+**ChatGPT镜像网站**（ChatGPT Mirror）是通过复制 ChatGPT 官网内容和结构创建的备用网站，使用起来是一样的。<br />
 <br />
-是专为国内用户开发的中文版平台，提供了一种**无需翻墙**即可使用ChatGPT的便捷方式。
+ChatGPT镜像网站是专为国内用户开发的中文版平台，提供了一种**无需翻墙**即可使用ChatGPT的便捷方式。
 
 ### ChatGPT 镜像网站的优势：
 
