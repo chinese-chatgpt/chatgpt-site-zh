@@ -1,7 +1,5 @@
 # 国内最全 ChatGPT 镜像网站资源整理(支持 GPT-4 和 4o，无需翻墙)【2024/11/30】 
 
-> Author: chinese-chatgpt  &emsp;&emsp;  Update: 2024/11/30
-
 国内如何使用ChatGPT？其实很简单，我们为您整理了最新国内可用的 **ChatGPT 镜像网站**资源。 <br />
 <br />
 这些镜像网站**无需翻墙**，并支持ChatGPT-4，您可以**无限制地使用GPT-4o、o1**及其**中文版**功能。
